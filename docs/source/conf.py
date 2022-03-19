@@ -16,7 +16,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'robocadSim'
+project = 'robocadV'
 copyright = '2022, crackanddie'
 author = 'crackanddie'
 
@@ -54,7 +54,7 @@ master_doc = 'index'
 html_theme = 'sphinx_rtd_theme'
 
 # Sidebar logo
-html_logo = "res/logo_rcs.png"
+html_logo = "res/logo_rcv_2.png"
 
 # URL favicon
 html_favicon = "res/site_logo_rcs.ico"

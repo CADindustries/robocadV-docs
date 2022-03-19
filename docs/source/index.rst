@@ -1,7 +1,7 @@
-robocadSim
+robocadV
 ======================================
 
-Welcome to the robocadSim documentation page. Here you will find lots of information about how to program robocadSim' virtual robots.
+Welcome to the robocadV documentation page. Here you will find lots of information about how to program robocadV' virtual robots.
 
 .. toctree::
    :maxdepth: 1
