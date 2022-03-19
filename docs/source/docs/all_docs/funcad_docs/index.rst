@@ -9,4 +9,7 @@ Here You can find some info about Funcad.
    docs/FromAxisToMotors/index
    docs/FromMotorsToAxis/index
    docs/InRangeBool/index
+   docs/InRange/index
    docs/Transfunc/index
+   docs/ReImToPolar/index
+   docs/PolarToReIm/index

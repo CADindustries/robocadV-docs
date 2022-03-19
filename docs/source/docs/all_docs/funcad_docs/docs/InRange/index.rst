@@ -1,13 +1,13 @@
-InRangeBool
+InRange
 ================================
 
-InRangeBool function is used to check that input value is in range.
+InRange function is used to clip input value by range.
 
 .. tabs::
 
     .. tab:: Python
 
-        **Location and name:** Funcad.in_range_bool()
+        **Location and name:** Funcad.in_range()
 
         **Inputs:**  
 
@@ -17,7 +17,7 @@ InRangeBool function is used to check that input value is in range.
 
         **Output:**
 
-        *bool* is in range
+        *float* ranged value
 
         **Example:**
 
@@ -27,7 +27,7 @@ InRangeBool function is used to check that input value is in range.
             from robocadSimPy.funcad import Funcad
 
 
-            out = Funcad.in_range_bool(5, 0, 12)  # True
+            out = Funcad.in_range(5, 0, 12)  # 5
         
         **Additional info:**
         
