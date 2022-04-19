@@ -13,17 +13,21 @@
 
 robocadV is a 3D mobile robotics simulator. 
 
-## Adddd
+## Сompatibility table:
+
+![][1] - Available.  
+![][2] - Under development.  
+![][3] - Planned in the future.  
 
 |   |  Windows  |  Linux  |  MacOS  |
 |:-:|:-:|:-:|:-:|
-|  <img height="48" src="https://github.com/Soft-V/robocadV-docs/blob/main/docs/source/res/logo_rcv_2.png"> |   |   |   |
-|  <img height="48" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png"> |   |   |   |
-|  <img height="48" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png"> |   |   |   | 
-|  <img height="48" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_48x48.png"> |   |   |   | 
-|  <img height="48" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png"> |   |   |   | 
-|  <img height="48" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png"> |   |   |   |
-|  <img height="48" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/ruby/ruby_48x48.png"> |   |   |   |
+|  <img height="48" src="https://github.com/Soft-V/robocadV-docs/blob/main/docs/source/res/logo_rcv_2.png"> | ![][1] | ![][2] | ![][2] |
+|  <img height="48" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png"> | ![][1] | ![][1] | ![][1] |
+|  <img height="48" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png"> | ![][2] | ![][2] | ![][2] | 
+|  <img height="48" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_48x48.png"> | ![][2] | ![][2] | ![][2] | 
+|  <img height="48" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png"> | ![][2] | ![][3] | ![][3] | 
+|  <img height="48" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png"> | ![][3] | ![][3] | ![][3] |
+|  <img height="48" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/ruby/ruby_48x48.png"> | ![][3] | ![][3] | ![][3] |
 
 ## Found a bug or need for help? Contact us:
 
@@ -33,3 +37,8 @@ robocadV is a 3D mobile robotics simulator.
 
 The robocadV documentation is available in these domains:
 - https://robocadv.readthedocs.io/en/latest/index.html
+
+
+[1]: https://github.com/Soft-V/robocadV-docs/blob/main/docs/source/res/github/available_28.png
+[2]: https://github.com/Soft-V/robocadV-docs/blob/main/docs/source/res/github/developing_28.png
+[3]: https://github.com/Soft-V/robocadV-docs/blob/main/docs/source/res/github/not_in_plans_28.png
