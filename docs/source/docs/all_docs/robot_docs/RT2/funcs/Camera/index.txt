@@ -22,15 +22,15 @@ Here is examples how to get camera image.
         .. code-block:: python
             :linenos:
 
-	    	# this code will show you real time image from robot camera for 10 seconds
-            from robocadSimPy.robots import RT2
-	    	import numpy as np
-	    	import cv2
+			# this code will show you real time image from robot camera for 10 seconds
+			from robocadSimPy.robots import RT2
+			import numpy as np
+			import cv2
 
 
-            robot = RT2.RT2()
-	    	robot.connect()
-            st_time = time.time()
+			robot = RT2.RT2()
+			robot.connect()
+			st_time = time.time()
 
 			while time.time() - st_time < 10:
 				nparr = np.frombuffer(robot.bytes_from_camera, np.uint8)
@@ -84,8 +84,8 @@ Here is examples how to get camera image.
         .. code-block:: java
             :linenos:
 
-	    	# this code will show you real time image from robot camera for 10 seconds
-        	import robots.RT2;
+			# this code will show you real time image from robot camera for 10 seconds
+			import robots.RT2;
 
 			import javax.swing.*;
 			import java.awt.*;
