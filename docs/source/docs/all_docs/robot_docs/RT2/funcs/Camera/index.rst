@@ -5,22 +5,22 @@ Here is examples how to get camera image.
 
 .. tabs::
 
-    .. tab:: Python
+	.. tab:: Python
 
-        **Location and name:** RT2.bytes_from_camera
+		**Location and name:** RT2.bytes_from_camera
 
-        **Inputs:**  
+		**Inputs:**  
 
-        \-\-\-
+		\-\-\-
 
-        **Output:**
+		**Output:**
 
-        *bytes* of image from robot
+		*bytes* of image from robot
 
-        **OpenCV example:**
+		**OpenCV example:**
 
-        .. code-block:: python
-            :linenos:
+		.. code-block:: python
+			:linenos:
 
 			# this code will show you real time image from robot camera for 10 seconds
 			from robocadSimPy.robots import RT2
@@ -42,10 +42,10 @@ Here is examples how to get camera image.
 					cv2.waitKey(1)
 			robot.disconnect()
 
-        **PIL example:**
+		**PIL example:**
 
-        .. code-block:: python
-            :linenos:
+		.. code-block:: python
+			:linenos:
 
 			# this code will save image from robot camera
 			from robocadSimPy.robots import RT2
@@ -63,26 +63,26 @@ Here is examples how to get camera image.
 			img.save(r"image_from_robot.png", "PNG")
 			robot.disconnect()
         
-        **Additional info:**
-        
-        \-\-\-
+		**Additional info:**
 
-    .. tab:: Java
+		\-\-\-
 
-        **Location and name:** RT2.getBytesFromCamera()
+	.. tab:: Java
 
-        **Inputs:**  
+		**Location and name:** RT2.getBytesFromCamera()
 
-        \-\-\-
+		**Inputs:**  
 
-        **Output:**
+		\-\-\-
 
-        *byte[]* of image from robot
+		**Output:**
 
-        **awt/swing example:**
+		*byte[]* of image from robot
 
-        .. code-block:: java
-            :linenos:
+		**awt/swing example:**
+
+		.. code-block:: java
+			:linenos:
 
 			# this code will show you real time image from robot camera for 10 seconds
 			import robots.RT2;
@@ -154,13 +154,13 @@ Here is examples how to get camera image.
 				}
 			}
 
-        **JavaCV example:**
+		**JavaCV example:**
 
-        .. code-block:: python
-            :linenos:
+		.. code-block:: python
+			:linenos:
 
-	    
-        
-        **Additional info:**
-        
-        \-\-\-
+
+
+		**Additional info:**
+
+		\-\-\-
