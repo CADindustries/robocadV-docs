@@ -1,28 +1,28 @@
-Camera
+Камера
 ================================
 
-Here is examples how to get camera image.
+Описание функций и примеры использования:
 
 .. tabs::
 
 	.. tab:: Python
 
-		**Location and name:** RT2.bytes_from_camera
+		**Расположение и название:** RT2.bytes_from_camera
 
-		**Inputs:**  
+		**Входные данные:**  
 
 		\-\-\-
 
-		**Output:**
+		**Выходные данные:**
 
-		*bytes* of image from robot
+		*bytes* - массив байтов изображения
 
-		**OpenCV example:**
+		**Пример с использованием библиотеки OpenCV:**
 
 		.. code-block:: python
 			:linenos:
 
-			# this code will show you real time image from robot camera for 10 seconds
+			# этот пример кода позволит вам получать изображение с робота в течение 10 секунд
 			from robocadSimPy.robots import RT2
 			import numpy as np
 			import cv2
@@ -42,12 +42,12 @@ Here is examples how to get camera image.
 					cv2.waitKey(1)
 			robot.disconnect()
 
-		**PIL example:**
+		**Пример с использованием библиотеки PIL:**
 
 		.. code-block:: python
 			:linenos:
 
-			# this code will save image from robot camera
+			# этот пример кода сохраняет изображение с камеры робота
 			from robocadSimPy.robots import RT2
 			import numpy as np
 			from PIL import Image
@@ -63,28 +63,28 @@ Here is examples how to get camera image.
 			img.save(r"image_from_robot.png", "PNG")
 			robot.disconnect()
         
-		**Additional info:**
+		**Дополнительная информация:**
 
 		\-\-\-
 
 	.. tab:: Java
 
-		**Location and name:** RT2.getBytesFromCamera()
+		**Расположение и название:** RT2.getBytesFromCamera()
 
-		**Inputs:**  
+		**Входные данные:**  
 
 		\-\-\-
 
-		**Output:**
+		**Выходные данные:**
 
-		*byte[]* of image from robot
+		*byte[]* - массив байтов изображения
 
-		**awt/swing example:**
+		**Пример с использованием библиотеки awt/swing:**
 
 		.. code-block:: java
 			:linenos:
 
-			# this code will show you real time image from robot camera for 10 seconds
+			# этот пример кода позволит вам получать изображение с робота в течение 10 секунд
 			import robots.RT2;
 
 			import javax.swing.*;
@@ -154,13 +154,10 @@ Here is examples how to get camera image.
 				}
 			}
 
-		**JavaCV example:**
+		**Пример с использованием библиотеки JavaCV:**
 
-		.. code-block:: python
-			:linenos:
+		\-\-\-
 
-
-
-		**Additional info:**
+		**Дополнительная информация:**
 
 		\-\-\-

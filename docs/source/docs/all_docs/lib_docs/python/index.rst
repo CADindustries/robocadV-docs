@@ -1,41 +1,41 @@
-Python library
+Python
 ======================================
 
-Here is some info about how to download robocadSim Python library. I am going to use PyCharm 2020.
+Здесь вы можете найти информацию о том, как установить Python библиотеку для robocadV.
 
-First way:
-^^^^^^^^^^^^^^^^^^^^^^^
+Первый способ:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Open Your project in PyChram -> click on **File** -> **Settings**
+1. Откройте PyChram -> нажмите на **File** -> **Settings**
 
 .. image:: python_lib/first_step_py.png
    :align: center
    :width: 700
 
-2. Click on **Project: Python** -> **Project Interpreter** -> **Install** (Plus button)
+2. Далее **Project: Python** -> **Project Interpreter** -> **Install** (Кнопочка с плюсиком)
 
 .. image:: python_lib/second_step_py.png
    :align: center
    :width: 800
 
-3. Write **robocadSimPy** in **Search Line** -> select **robocadSimPy** -> click **Install Package**
+3. Наберите **robocadSimPy** в **Поисковой строке** -> выберите **robocadSimPy** -> и нажмите **Install Package**
 
 .. image:: python_lib/third_step_py.png
    :align: center
    :width: 800
 
-4. Now You can use robocadSim Python library in Your project!
+4. Теперь вы можете программировать виртуальных роботов, используя Python!
 
-Second way:
-^^^^^^^^^^^^^^^^^^^^^^^
+Второй способ (нужен предустановленный Python):
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. **Win + R** -> write **cmd** here -> press **Enter**
+1. **Win + R** -> наберите **cmd** -> и нажмите **Enter**
 
 .. image:: python_lib/fourth_step_py.jpg
    :align: center
    :width: 600
 
-2. Write here **pip install robocadSimPy** or **pip3 install robocadSimPy** -> press **Enter**
+2. Напишите **pip install robocadSimPy** или **pip3 install robocadSimPy** -> нажите **Enter**
 
 .. image:: python_lib/sixth_step_py.jpg
    :align: center
@@ -45,4 +45,4 @@ Second way:
    :align: center
    :width: 800
 
-3. Now You can use robocadSim Python library in Your project!
+3. Теперь вы можете программировать виртуальных роботов, используя Python!

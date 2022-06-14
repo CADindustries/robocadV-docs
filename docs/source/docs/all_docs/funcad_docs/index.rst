@@ -1,7 +1,7 @@
-Funcad documentation
+Funcad
 ======================================
 
-Here You can find some info about Funcad.
+Здесь вы можете почитать о библиотеке Funcad. Она бывает очень полезной при программировании роботов :)
 
 .. toctree::
    :maxdepth: 1

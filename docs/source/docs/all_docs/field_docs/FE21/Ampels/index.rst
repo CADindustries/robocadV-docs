@@ -1,34 +1,34 @@
-Traffic lights on FE21 field
+Светофоры
 ======================================
 
-There are 2 traffic lights on the field and they can burn with such colors:
+На поле есть два светофора, которые имеют три разных цвета (ожидаемо):
 
-- **Red** color
-- **Yellow** color
-- **Green** color
+- **Красный** цвет (5 секунд)
+- **Желтый** цвет (2 секунды)
+- **Зеленый** цвет (8 секунд)
 
-Red:
+Красный:
 """""""""""""""""""""""""""""""
-If a **red** light is on at a traffic light, robot should stop in front of it or in front of a black line. And continue movement when a **green** light is on at a traffic light:
+Робот должен остановиться перед черной линией, если горит **красный** свет. И продолжать движение, если загорелся **зеленый** свет:
 
 .. image:: pics/red_light_example_1.png
    :align: center
    :width: 900
 
-Yellow:
+Желтый:
 """""""""""""""""""""""""""""""
 
-If a **yellow** light is on at a traffic light, robot should stop in front of it or in front of a black line. And continue movement when a **green** light is on at a traffic light.
-**But** if robot already crossed the line when the yellow light came on, it can complete movement:
+Робот должен остановиться перед черной линией, если горит **желтый** свет. И продолжать движение, если загорелся **зеленый** свет.
+**Но**, если робот уже пересекает черную линию, в то время как загорелся **желтый**, он должен продолжить свое движение:
 
 .. image:: pics/yellow_light_example_1.png
    :align: center
    :width: 900
 
-Green:
+Зеленый:
 """""""""""""""""""""""""""""""
 
-If a **green** light is on at a traffic light, robot can continue its movement:
+Робот должен двигаться, если на светофоре горит **зеленый**:
 
 .. image:: pics/green_light_example_1.png
    :align: center

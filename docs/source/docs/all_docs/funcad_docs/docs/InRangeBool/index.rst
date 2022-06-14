@@ -1,25 +1,25 @@
 InRangeBool
 ================================
 
-InRangeBool function is used to check that input value is in range.
+Функция InRangeBool проверяет, входит ли значение в заданный промежуток.
 
 .. tabs::
 
     .. tab:: Python
 
-        **Location and name:** Funcad.in_range_bool()
+        **Раположение и название:** Funcad.in_range_bool()
 
-        **Inputs:**  
+        **Входные данные:**  
 
-        - *float* input value
-        - *float* lower threshold
-        - *float* upper threshold
+        - *float* входное значение
+        - *float* нижняя граница
+        - *float* верхняя граница
 
-        **Output:**
+        **Выходные данные:**
 
-        *bool* is in range
+        *bool* входит ли заданное значение в промежуток
 
-        **Example:**
+        **Пример:**
 
         .. code-block:: python
             :linenos:
@@ -27,8 +27,8 @@ InRangeBool function is used to check that input value is in range.
             from robocadSimPy.funcad import Funcad
 
 
-            out = Funcad.in_range_bool(5, 0, 12)  # True
+            out = Funcad.in_range_bool(5, 0, 12)  # выходные данные - True
         
-        **Additional info:**
+        **Дополнительная информация:**
         
         \-\-\-

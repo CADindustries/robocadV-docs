@@ -1,27 +1,27 @@
 PolarToReIm
 ================================
 
-PolarToReIm function converts the polar components of a complex number into its rectangular components.
+Функция PolarToReIm преобразует полярные компоненты комплексного числа в его прямоугольные компоненты (прямоугольная система координат).
 
 .. tabs::
 
     .. tab:: Python
 
-        **Location and name:** Funcad.polar_to_reim()
+        **Раположение и название:** Funcad.polar_to_reim()
 
-        **Inputs:**  
+        **Входные данные:**  
 
-        - *float* r value
-        - *float* theta value
+        - *float* значение R
+        - *float* значение Theta
 
-        **Output:**
+        **Выходные данные:**
 
-        *tuple* that includes:
+        *tuple*, который включает в себя:
 
-        - X value
-        - Y value
+        - Значение X
+        - Значение Y
 
-        **Example:**
+        **Пример:**
 
         .. code-block:: python
             :linenos:
@@ -29,8 +29,8 @@ PolarToReIm function converts the polar components of a complex number into its 
             from robocadSimPy.funcad import Funcad
 
 
-            out = Funcad.polar_to_reim(30, 20)  # (12.242461854401759, 27.38835752182883)
+            out = Funcad.polar_to_reim(30, 20)  # выходные данные - (12.242461854401759, 27.38835752182883)
         
-        **Additional info:**
+        **Дополнительная информация:**
         
         \-\-\-

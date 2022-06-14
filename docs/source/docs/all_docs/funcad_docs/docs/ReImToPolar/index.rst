@@ -1,27 +1,27 @@
 ReImToPolar
 ================================
 
-ReImToPolar function converts the rectangular components of a complex number into its polar components.
+Функция ReImToPolar преобразует прямоугольные компоненты комплексного числа в его полярные компоненты (полярная система координат).
 
 .. tabs::
 
     .. tab:: Python
 
-        **Location and name:** Funcad.reim_to_polar()
+        **Раположение и название:** Funcad.reim_to_polar()
 
-        **Inputs:**  
+        **Входные данные:**  
 
-        - *float* X value
-        - *float* Y value
+        - *float* значение X
+        - *float* значение Y
 
-        **Output:**
+        **Выходные данные:**
 
-        *tuple* that includes:
+        *tuple*, который включает в себя:
 
-        - r value
-        - theta value
+        - Значение R
+        - Значение Theta
 
-        **Example:**
+        **Пример:**
 
         .. code-block:: python
             :linenos:
@@ -29,8 +29,8 @@ ReImToPolar function converts the rectangular components of a complex number int
             from robocadSimPy.funcad import Funcad
 
 
-            out = Funcad.reim_to_polar(30, 20)  # (36.05551275463989, 0.5880026035475675)
+            out = Funcad.reim_to_polar(30, 20)  # выходные данные - (36.05551275463989, 0.5880026035475675)
         
-        **Additional info:**
+        **Дополнительная информация:**
         
         \-\-\-

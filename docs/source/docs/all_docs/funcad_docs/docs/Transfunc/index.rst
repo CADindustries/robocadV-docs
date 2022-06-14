@@ -1,24 +1,24 @@
 Transfunction
 ================================
 
-Transfunction function is used to rearrange input value.
+Функция Transfunction преобразует входное значение в зависимости от заданных массивов.
 
 .. tabs::
 
     .. tab:: Python
 
-        **Location and name:** Funcad.transfunc_np()
+        **Раположение и название:** Funcad.transfunc_np()
 
-        **Inputs:**  
+        **Входные данные:**  
 
-	- *np.ndarray* 2d input/output array
-        - *float* value to remake
+	- *np.ndarray* двумерный массив входных и выходных данных
+        - *float* значение для преобразования
 
-        **Output:**
+        **Выходные данные:**
 
-        *float* rearranged input
+        *float* преобразованное значение
 
-        **Example:**
+        **Пример:**
 
         .. code-block:: python
             :linenos:
@@ -27,8 +27,8 @@ Transfunction function is used to rearrange input value.
 	    import numpy as np
 
 
-            out = Funcad.transfunc_np(np.array([[2, 10], [20, 100]]), 5)  # out will be 50
+            out = Funcad.transfunc_np(np.array([[2, 10], [20, 100]]), 5)  # выходные данные - 50
         
-        **Additional info:**
+        **Дополнительная информация:**
         
         \-\-\-

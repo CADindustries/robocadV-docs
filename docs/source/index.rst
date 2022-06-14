@@ -1,17 +1,17 @@
 robocadV
 ======================================
 
-Welcome to the robocadV documentation page. Here you will find lots of information about how to program robocadV' virtual robots.
+Добро пожаловать на сайт документации robocadV. Здесь вы сможете найти всю необходимою информацию о robocadV.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Getting started
+   :caption: Начиная
    
    docs/getting_started/getting_started
 
 .. toctree::
    :maxdepth: 1
-   :caption: Documentations
+   :caption: Документация
    
    docs/all_docs/robot_docs/index
    docs/all_docs/field_docs/index
@@ -21,18 +21,18 @@ Welcome to the robocadV documentation page. Here you will find lots of informati
 
 .. toctree::
    :maxdepth: 1
-   :caption: Sponsorships
+   :caption: Спонсорство
    
    docs/sponsorships/index
 
 .. toctree::
    :maxdepth: 1
-   :caption: Need for help?
+   :caption: Помощь
    
    docs/help/help
 
 .. toctree::
    :maxdepth: 1
-   :caption: Additional info
+   :caption: Остальное
    
    docs/other/license

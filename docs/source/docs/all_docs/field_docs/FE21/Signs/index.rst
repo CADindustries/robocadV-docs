@@ -1,71 +1,71 @@
-Signs on FE21 field
+Дорожные знаки
 ======================================
 
-There are 4 signs on the field and they may be:
+Всего может быть четыре вида знаков:
 
-- **Turn Left** sign
-- **Turn Right** sign
-- **Move Forward** sign
-- **Stop** sign
+- **Поворот налево**
+- **Поворот направо**
+- **Движение прямо**
+- **Знак стоп**
 
-Turn Left:
+Поворот налево:
 """"""""""""""""""""""""""""""""
 
-For example, if You have **Turn Left** sign at the start (green rect) You should move like that:
+Например, если у вас знак **Поворот налево** около зоны старта (зеленый прямоугольник), вы должны двигаться как показано на рисунке:
 
 .. image:: pics/left_example_1.png
    :align: center
    :width: 900
 
-or like that:
+или так:
 
 .. image:: pics/left_example_2.png
    :align: center
    :width: 900
 
-and check next sign (red rect) if You need it.
+и проверить следующий знак (красный прямоугольник), если это необходимо.
 
-Turn Right:
+Поворот направо:
 """"""""""""""""""""""""""""""""
 
-For example, if there is **Turn Right** sign at the Distant village (green rect) You should move like that:
+Например, если в Maple Lane стоит знак **Поворот направо** (зеленый прямоугольник), вы должны двигаться как показано на рисунке:
 
 .. image:: pics/right_example_1.png
    :align: center
    :width: 900
 
-or like that:
+или так:
 
 .. image:: pics/right_example_2.png
    :align: center
    :width: 900
 
-and check next sign (red rect) if You need it.
+и проверить следующий знак (красный прямоугольник), если это необходимо.
 
-Move Forward:
+Движение прямо:
 """"""""""""""""""""""""""""""""
 
-For example, if there is **Move Forward** sign at the start (green rect) You should move like that:
+Например, если у вас знак **Движение прямо** около зоны старта (зеленый прямоугольник), вы должны двигаться как показано на рисунке:
 
 .. image:: pics/forward_example_1.png
    :align: center
    :width: 900
 
-and check next sign (red rect) if You need it.
+и проверить следующий знак (красный прямоугольник), если это необходимо.
 
-Stop:
+Знак стоп:
 """"""""""""""""""""""""""""""""
 
-For example, if there is **Stop** sign at the start (green rect) You should stop in front of the sign (or line) and wait for 2 seconds. After that You can continue Your movement wherever You want. Example:
+Например, если у вас **Знак стоп** около зоны старта (зеленый прямоугольник), вы должны остановиться перед знаком (или черной линией) и подождать минимум 2 секунды. После этого вы можете продолжить свое движение в любом направлении. Пример:
 
 .. image:: pics/stop_example_1.png
    :align: center
    :width: 900
 
-All signs:
+Все примеры:
 """"""""""""""""""""""""""""""""
 
-Here is an example of movement when robot has to go to the Pine village and take containers from there:
+Вот пример движений робота, если ему нужно взять контейнер (контейнеры) из зоны Accorn Court:
 
 .. image:: pics/all_signs_example_1.png
    :align: center

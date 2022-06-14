@@ -1,7 +1,7 @@
-Libraries documentation
+Библиотеки
 ======================================
 
-Here You can choose the favourite programming language and read about how to install the library into Your project.
+Здесь вы можете выбрать ваш любимый язык программирования и прочитать, как установить библиотеку для программирования роботов на нем.
 
 .. toctree::
    :maxdepth: 1

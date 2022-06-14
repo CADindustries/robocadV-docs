@@ -1,29 +1,29 @@
 FromAxisToMotors
 ================================
 
-FromAxisToMotors function is used to remake input axis values into motors values for **tricycle** robot.
+Функция FromAxisToMotors используется для преобразования осевых скоростей в скорости на моторы для **трехколесного** робота.
 
 .. tabs::
 
     .. tab:: Python
 
-        **Location and name:** Funcad.fatm()
+        **Раположение и название:** Funcad.fatm()
 
-        **Inputs:**  
+        **Входные данные:**  
 
-        - *float* speed to X axis
-        - *float* speed to Y axis
-        - *float* speed to Z axis
+        - *float* скорость на ось X
+        - *float* скорость на ось Y
+        - *float* скорость на ось Z
 
-        **Output:**
+        **Выходные данные:**
 
-        *tuple* that includes:
+        *tuple*, который включает в себя:
 
-        - Speed to right motor
-        - Speed to left motor
-        - Speed to back motor
+        - Скорость на правый мотор
+        - Скорость на левый мотор
+        - Скорость на задний мотор
 
-        **Example:**
+        **Пример:**
 
         .. code-block:: python
             :linenos:
@@ -31,8 +31,8 @@ FromAxisToMotors function is used to remake input axis values into motors values
             from robocadSimPy.funcad import Funcad
 
 
-            out = Funcad.fatm(5, -5, 3)  # (2.273672, -9.273672,  4.)
+            out = Funcad.fatm(5, -5, 3)  # выходные данные - (2.273672, -9.273672,  4.)
         
-        **Additional info:**
+        **Дополнительная информация:**
         
         \-\-\-

@@ -1,7 +1,7 @@
-robocadSim documentation
-======================================
+Проводник robocadV
+==============================================
 
-Here You can find some info about robocadSim program.
+Здесь вы можете посмотреть доступный функционал программы robocadV.
 
 .. toctree::
    :maxdepth: 1

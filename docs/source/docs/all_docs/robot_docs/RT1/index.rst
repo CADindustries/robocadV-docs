@@ -1,7 +1,7 @@
-Robot RT1
+Робот RT1
 ======================================
 
-Everything about RT1
+Разделы робота RT1
 
 .. toctree::
    :maxdepth: 1

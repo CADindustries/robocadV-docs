@@ -1,7 +1,7 @@
-Field documentation
+Поля
 ======================================
 
-Here You can choose a field and read some info about it.
+Здесь вы можете выбрать поле и узнать о нем больше.
 
 .. toctree::
    :maxdepth: 1

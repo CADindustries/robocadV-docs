@@ -1,7 +1,7 @@
-Robot documentation
+Роботы
 ======================================
 
-Here You can choose the robot you are programming. Read the documentation about all functions in the selected language and see some helpful examples. Good luck!
+Здесь вы можете изучить робота, которого хотите запрограммировать. Читайте документыцию на выбранном вами языке программирования, а полезные примеры помогут вам лучше понять принципы робототехники. Удачи!
 
 .. toctree::
    :maxdepth: 1

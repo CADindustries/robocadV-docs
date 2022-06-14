@@ -1,25 +1,25 @@
 InRange
 ================================
 
-InRange function is used to clip input value by range.
+Функция InRange используется для отсечения значения переменной по нижней и верхней границе.
 
 .. tabs::
 
     .. tab:: Python
 
-        **Location and name:** Funcad.in_range()
+        **Раположение и название:** Funcad.in_range()
 
-        **Inputs:**  
+        **Входные данные:**  
 
-        - *float* input value
-        - *float* lower threshold
-        - *float* upper threshold
+        - *float* входное значение
+        - *float* нижняя граница
+        - *float* верхняя граница
 
-        **Output:**
+        **Выходные данные:**
 
-        *float* ranged value
+        *float* значение, входящее в заданный промежуток
 
-        **Example:**
+        **Пример:**
 
         .. code-block:: python
             :linenos:
@@ -27,8 +27,8 @@ InRange function is used to clip input value by range.
             from robocadSimPy.funcad import Funcad
 
 
-            out = Funcad.in_range(5, 0, 12)  # 5
+            out = Funcad.in_range(5, 0, 12)  # выходные данные - 5
         
-        **Additional info:**
+        **Дополнительная информация:**
         
         \-\-\-
