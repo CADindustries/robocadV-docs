@@ -39,6 +39,6 @@ The robocadV documentation is available in these domains:
 - https://robocadv.readthedocs.io/en/latest/index.html
 
 
-[1]: https://github.com/Soft-V/robocadV-docs/blob/main/docs/source/res/github/available_28.png
-[2]: https://github.com/Soft-V/robocadV-docs/blob/main/docs/source/res/github/developing_28.png
-[3]: https://github.com/Soft-V/robocadV-docs/blob/main/docs/source/res/github/not_in_plans_28.png
+[1]: https://github.com/Soft-V/robocadV-docs/blob/main/docs/source/res/github/check-all.png
+[2]: https://github.com/Soft-V/robocadV-docs/blob/main/docs/source/res/github/hammer-wrench.png
+[3]: https://github.com/Soft-V/robocadV-docs/blob/main/docs/source/res/github/brain.png
