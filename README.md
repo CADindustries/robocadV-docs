@@ -21,7 +21,7 @@ robocadV is a 3D mobile robotics simulator.
 
 |   |  Windows  |  Linux  |  MacOS  |
 |:-:|:-:|:-:|:-:|
-|  <img height="48" src="https://github.com/Soft-V/robocadV-docs/blob/main/docs/source/res/logo_rcv_2.png"> | ![][1] | ![][2] | ![][2] |
+|  <img width="56" src="https://github.com/Soft-V/robocadV-docs/blob/main/docs/source/res/logo_rcv_2.png"> | ![][1] | ![][2] | ![][2] |
 |  <img height="48" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png"> | ![][1] | ![][1] | ![][1] |
 |  <img height="48" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png"> | ![][1] | ![][1] | ![][1] | 
 |  <img height="48" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_48x48.png"> | ![][2] | ![][2] | ![][2] | 
