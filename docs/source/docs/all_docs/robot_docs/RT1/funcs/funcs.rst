@@ -3,3 +3,4 @@
 
    Motors/index
    Sensors/index
+   Encoders/index

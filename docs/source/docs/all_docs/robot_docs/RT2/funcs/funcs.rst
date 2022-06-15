@@ -4,3 +4,4 @@
    Camera/index
    Motors/index
    Sensors/index
+   Encoders/index
