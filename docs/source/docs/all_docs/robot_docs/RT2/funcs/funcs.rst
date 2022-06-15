@@ -3,3 +3,4 @@
 
    Camera/index
    Motors/index
+   Sensors/index
