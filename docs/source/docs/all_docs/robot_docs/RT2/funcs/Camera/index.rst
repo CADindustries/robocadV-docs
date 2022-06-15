@@ -23,7 +23,7 @@
 			:linenos:
 
 			# этот пример кода позволит вам получать изображение с робота в течение 10 секунд
-			from robocadSimPy.robots import RT2
+			from robocadSim.robots import RT2
 			import numpy as np
 			import cv2
 
@@ -48,7 +48,7 @@
 			:linenos:
 
 			# этот пример кода сохраняет изображение с камеры робота
-			from robocadSimPy.robots import RT2
+			from robocadSim.robots import RT2
 			import numpy as np
 			from PIL import Image
 
@@ -84,7 +84,7 @@
 		.. code-block:: java
 			:linenos:
 
-			# этот пример кода позволит вам получать изображение с робота в течение 10 секунд
+			// этот пример кода позволит вам получать изображение с робота в течение 10 секунд
 			import robots.RT2;
 
 			import javax.swing.*;

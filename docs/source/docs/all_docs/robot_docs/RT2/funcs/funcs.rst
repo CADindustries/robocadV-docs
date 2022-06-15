@@ -2,3 +2,4 @@
    :maxdepth: 1
 
    Camera/index
+   Motors/index
