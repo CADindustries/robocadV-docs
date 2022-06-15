@@ -5,3 +5,4 @@
    Motors/index
    Sensors/index
    Encoders/index
+   Resets/index
