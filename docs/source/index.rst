@@ -36,3 +36,9 @@ robocadV
    :caption: Остальное
    
    docs/other/license
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Реклама
+   
+   docs/ad/index
