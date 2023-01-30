@@ -12,7 +12,7 @@ Java
    :align: center
    :width: 700
 
-2. Добавляем следующие строчки в этот файл: 
+2. Добавляем следующие строчки в этот файл (Рекомендуется использовать самые последнии версии библиотеки, вот список всех  `версий <https://github.com/Soft-V/robocadSim4J/blob/main/CHANGELOG.md>`__): 
 
       .. code-block:: java
          :linenos:
