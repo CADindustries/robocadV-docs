@@ -8,3 +8,4 @@
 
    python/index
    java/index
+   labView/index
