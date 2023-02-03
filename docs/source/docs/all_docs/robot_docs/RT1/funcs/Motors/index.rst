@@ -107,6 +107,8 @@
 
 		**Пример:**
 
+		В этом примере робот просто постоянно едет вперед
+
 		.. image:: labView/rt_1_motors.PNG
 			:align: center
 			:width: 800
