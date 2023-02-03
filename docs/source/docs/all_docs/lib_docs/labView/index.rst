@@ -9,13 +9,13 @@ LabVIEW
 
 3. Откройте скачанный файл с помощью программы *VI Package Manager* и нажмите на кнопку *Install* в открывшемся окне
 
-.. image:: labView_lib/labView_1.png
+.. image:: labView_lib/labView_1.PNG
    :align: center
    :width: 800
 
 4. Спустя некоторое время библиотека будет установлена и останется только нажать на кнопку *Finish*
 
-.. image:: labView_lib/labView_2.png
+.. image:: labView_lib/labView_2.PNG
    :align: center
    :width: 800
 
