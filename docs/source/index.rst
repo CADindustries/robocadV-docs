@@ -13,6 +13,7 @@ robocadV
    :maxdepth: 1
    :caption: Документация
    
+   docs/all_docs/changelog_docs/index
    docs/all_docs/robot_docs/index
    docs/all_docs/field_docs/index
    docs/all_docs/funcad_docs/index
