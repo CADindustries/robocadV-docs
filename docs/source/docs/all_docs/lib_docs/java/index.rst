@@ -21,7 +21,7 @@ Java
             <dependency>
                <groupId>io.github.soft-v</groupId>
                <artifactId>robocadSim4J</artifactId>
-               <version>1.0.3</version>
+               <version>LATEST</version>
             </dependency>
          </dependencies>
   
